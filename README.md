@@ -171,7 +171,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Matheus Kawai
+Desenvolvido por Matheus Kawai + Alura!
 
 ---
 
